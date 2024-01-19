@@ -18,3 +18,6 @@ console.log(gameName.length);
 console.log(gameName.toUpperCase());
 console.log(gameName.charAt(3));
 console.log(gameName.indexOf('n'));
+
+
+// video number 11
